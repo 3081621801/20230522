@@ -2,7 +2,9 @@
 
 int main(void)
 {
-	printf("aaaaaa\n);
+	printf("1a\n");
+	printf("2aa\n");
+	printf("3aaa\n);
 	return 0;
 }
 
