@@ -1,7 +1,12 @@
 #include<unistd.h>
 int main(void)
 {
-	printf("aaaaa\n");
+	printf("1aaaaaaa\n);
+	printf("2aaaaaaa\n);
+
+
+
+	printf("3aaaaaaaaaaa\n);
 	return 0;
 }
 
